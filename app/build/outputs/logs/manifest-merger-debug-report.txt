@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta3] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\31c864e84e36b4835ba7ff5547abeb18\constraintlayout-2.0.0-beta3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\a7ea359b13e47d272d2e3a7a1f418601\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\8139aeaaf9a55a56166c342e0ae69df0\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\fcbcf9c7600c6ef22bc346e5f5223d4b\recyclerview-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\ca7be4fc78bccaea8a6442c2e8f90da2\circleimageview-2.2.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.2.0-rc02] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\30a5a7570c59e880052c3d28bf2d2a84\fragment-1.2.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\460700345e8210c03dbf341b4ba185f3\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\967c9a44210be7104034b933ee1eadf6\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\4eb31db79b85585a56bb116f3831c119\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\fa8629083a7677692af6d3fc285f3d23\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\fc144bbd9a59cf10076e998b081e1648\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\8e4a8ea83e279591843bc738d499f21b\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\36aa490f593324c7e24b6caa7aa612df\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\b4497d5d6f8ead350efdcd58f76c2c1d\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\5bad9979272d126e997adb1a5ce14f6f\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\73edfc851442dbcfb0be7537fa90c84e\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0-rc02] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\509655dd2983d363b3e66ae7c04f8aea\activity-1.1.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\4bd2523a4c9a2c4322be26a3a24c8f3c\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\5f3d788323cd915e3504c0074409b4a9\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\9b978b4c31bb6572872c9b6025775fc5\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\2ba9178dfdfec6e161d768d213f2335f\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\47ac59284fc393a429c88180465ff9dc\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\aaffdc8d4692c2a6b7b4995c52e0b2a8\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\0ddeea502fa6aff4e02345ab575e09e6\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-rc02] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\62dce906473e9ebd0f391d80e3c4a009\lifecycle-viewmodel-savedstate-1.0.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-rc02] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\3fb906f2bbb182a5544976fc5234f7a2\lifecycle-viewmodel-2.2.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\907d4e03e60480f11fa82061278e1feb\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\2fb06b841842eb53bc5a5182e7a2c55f\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\e2b58ae11421aabaac2827dd40c50fc7\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\b642740a2f435b9ed15454b4c8b8e228\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-rc02] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\041f11d242cf2b3f52c374a6207cfb8d\lifecycle-runtime-2.2.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\c32febf03d3576a57da166aef50121c9\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\25d2fcf81e1f28455c50c1fd14f826b5\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-rc02] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\f1facb1eff2d0710444c4c47a0ca6f4b\lifecycle-livedata-core-2.2.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\7f5f40bdb278077a0e6b0b53a227ffaf\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml
+		INJECTED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml
+		ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml
+		ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta3] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\31c864e84e36b4835ba7ff5547abeb18\constraintlayout-2.0.0-beta3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta3] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\31c864e84e36b4835ba7ff5547abeb18\constraintlayout-2.0.0-beta3\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\ca7be4fc78bccaea8a6442c2e8f90da2\circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\ca7be4fc78bccaea8a6442c2e8f90da2\circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\47ac59284fc393a429c88180465ff9dc\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\47ac59284fc393a429c88180465ff9dc\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\0ddeea502fa6aff4e02345ab575e09e6\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\0ddeea502fa6aff4e02345ab575e09e6\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\47ac59284fc393a429c88180465ff9dc\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:8:9-41
+	android:hardwareAccelerated
+		ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:10:9-43
+	android:roundIcon
+		ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:12:9-40
+activity#app.layout.motion.motionlayoutexample.MainActivity
+ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:17:27-74
+activity#app.layout.motion.motionlayoutexample.DemoActivity
+ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:20:9-50
+	android:name
+		ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:20:19-47
+activity#app.layout.motion.motionlayoutexample.FragmentActivity
+ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:21:9-54
+	android:name
+		ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:21:19-51
+activity#app.layout.motion.motionlayoutexample.ComplexAnimationActivity
+ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:22:9-62
+	android:name
+		ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml:22:19-59
+uses-sdk
+INJECTED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml
+INJECTED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta3] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\31c864e84e36b4835ba7ff5547abeb18\constraintlayout-2.0.0-beta3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta3] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\31c864e84e36b4835ba7ff5547abeb18\constraintlayout-2.0.0-beta3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\a7ea359b13e47d272d2e3a7a1f418601\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\a7ea359b13e47d272d2e3a7a1f418601\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\8139aeaaf9a55a56166c342e0ae69df0\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\8139aeaaf9a55a56166c342e0ae69df0\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\fcbcf9c7600c6ef22bc346e5f5223d4b\recyclerview-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\fcbcf9c7600c6ef22bc346e5f5223d4b\recyclerview-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\ca7be4fc78bccaea8a6442c2e8f90da2\circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\ca7be4fc78bccaea8a6442c2e8f90da2\circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.2.0-rc02] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\30a5a7570c59e880052c3d28bf2d2a84\fragment-1.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0-rc02] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\30a5a7570c59e880052c3d28bf2d2a84\fragment-1.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\460700345e8210c03dbf341b4ba185f3\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\460700345e8210c03dbf341b4ba185f3\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\967c9a44210be7104034b933ee1eadf6\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\967c9a44210be7104034b933ee1eadf6\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\4eb31db79b85585a56bb116f3831c119\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\4eb31db79b85585a56bb116f3831c119\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\fa8629083a7677692af6d3fc285f3d23\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\fa8629083a7677692af6d3fc285f3d23\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\fc144bbd9a59cf10076e998b081e1648\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\fc144bbd9a59cf10076e998b081e1648\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\8e4a8ea83e279591843bc738d499f21b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\8e4a8ea83e279591843bc738d499f21b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\36aa490f593324c7e24b6caa7aa612df\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\36aa490f593324c7e24b6caa7aa612df\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\b4497d5d6f8ead350efdcd58f76c2c1d\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\b4497d5d6f8ead350efdcd58f76c2c1d\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\5bad9979272d126e997adb1a5ce14f6f\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\5bad9979272d126e997adb1a5ce14f6f\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\73edfc851442dbcfb0be7537fa90c84e\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\73edfc851442dbcfb0be7537fa90c84e\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0-rc02] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\509655dd2983d363b3e66ae7c04f8aea\activity-1.1.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0-rc02] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\509655dd2983d363b3e66ae7c04f8aea\activity-1.1.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\4bd2523a4c9a2c4322be26a3a24c8f3c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\4bd2523a4c9a2c4322be26a3a24c8f3c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\5f3d788323cd915e3504c0074409b4a9\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\5f3d788323cd915e3504c0074409b4a9\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\9b978b4c31bb6572872c9b6025775fc5\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\9b978b4c31bb6572872c9b6025775fc5\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\2ba9178dfdfec6e161d768d213f2335f\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\2ba9178dfdfec6e161d768d213f2335f\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\47ac59284fc393a429c88180465ff9dc\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\47ac59284fc393a429c88180465ff9dc\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\aaffdc8d4692c2a6b7b4995c52e0b2a8\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\aaffdc8d4692c2a6b7b4995c52e0b2a8\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\0ddeea502fa6aff4e02345ab575e09e6\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\0ddeea502fa6aff4e02345ab575e09e6\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-rc02] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\62dce906473e9ebd0f391d80e3c4a009\lifecycle-viewmodel-savedstate-1.0.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-rc02] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\62dce906473e9ebd0f391d80e3c4a009\lifecycle-viewmodel-savedstate-1.0.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-rc02] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\3fb906f2bbb182a5544976fc5234f7a2\lifecycle-viewmodel-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-rc02] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\3fb906f2bbb182a5544976fc5234f7a2\lifecycle-viewmodel-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\907d4e03e60480f11fa82061278e1feb\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\907d4e03e60480f11fa82061278e1feb\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\2fb06b841842eb53bc5a5182e7a2c55f\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\2fb06b841842eb53bc5a5182e7a2c55f\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\e2b58ae11421aabaac2827dd40c50fc7\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\e2b58ae11421aabaac2827dd40c50fc7\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\b642740a2f435b9ed15454b4c8b8e228\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\b642740a2f435b9ed15454b4c8b8e228\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-rc02] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\041f11d242cf2b3f52c374a6207cfb8d\lifecycle-runtime-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-rc02] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\041f11d242cf2b3f52c374a6207cfb8d\lifecycle-runtime-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\c32febf03d3576a57da166aef50121c9\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\c32febf03d3576a57da166aef50121c9\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\25d2fcf81e1f28455c50c1fd14f826b5\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\25d2fcf81e1f28455c50c1fd14f826b5\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-rc02] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\f1facb1eff2d0710444c4c47a0ca6f4b\lifecycle-livedata-core-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-rc02] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\f1facb1eff2d0710444c4c47a0ca6f4b\lifecycle-livedata-core-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\7f5f40bdb278077a0e6b0b53a227ffaf\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\BrainX Android Dev\.gradle\caches\transforms-2\files-2.1\7f5f40bdb278077a0e6b0b53a227ffaf\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml
+INJECTED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml
+		ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml
+		INJECTED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml
+		ADDED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml
+		INJECTED from C:\BrainxProjects\MotionLayoutExamples\app\src\main\AndroidManifest.xml
